@@ -3,7 +3,7 @@
 Trabalho em Markdown para a matéria de Estrutura de Dados   
 Estudante: JOÃO HENRIQUE MAY SPENGLER
 
-------------
+-------------
 
 ## Exercícios
 
