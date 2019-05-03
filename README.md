@@ -1,6 +1,6 @@
 # Análise de Algoritmos
 
-Trabalho em Markdown para a matério de Estrutura de Dados   
+Trabalho em Markdown para a matéria de Estrutura de Dados   
 Estudante: JOÃO HENRIQUE MAY SPENGLER
 
 ------------
